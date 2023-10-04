@@ -1,6 +1,7 @@
 #include<iostream>
 using namespace std;
 
+//IO_DONE
 int main(){
     int x, n;
     cout<<"Enter the no = ";
