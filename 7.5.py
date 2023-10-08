@@ -1,3 +1,4 @@
+#OK
 import random
 def search(l,loc,item):
     if(loc<0):
