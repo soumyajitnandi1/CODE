@@ -1,3 +1,4 @@
+#ok
 #IO in C
 
 #include<stdio.h>
